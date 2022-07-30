@@ -8,7 +8,7 @@
 .hero{
 	height: 32vh;
 	width: 100%;
-	background-color: #191919;
+	background-color: #ffffff;
 	background-size: cover;
 	background-position: center;
 }
@@ -21,7 +21,7 @@ nav{
 	padding-right: 8%;
 }
 .logo{
-	color: white;
+	color: rgb(0, 0, 0);
 	font-size: 35px;
 	letter-spacing: 1px;
 	cursor: pointer;
@@ -68,9 +68,7 @@ div.left{
 	width: 65%;
 
 }
-.content .right{
 
-}
 .content .right span::before{
 	content: '';
     animation: animate infinite 10s;
@@ -135,17 +133,17 @@ div.left{
 }
 
 h1{
-	color: white;
+	color: rgb(0, 0, 0);
 	margin: 20px 0px 20px;
 	font-size: 75px;
 }
 h3{
-	color: white;
+	color: rgb(0, 0, 0);
 	font-size: 25px;
 	margin-bottom: 50px;
 }
 h4{
-	color: white;
+	color: rgb(0, 0, 0);
 	letter-spacing: 2px;
 	font-size: 20px;
 }
@@ -181,7 +179,7 @@ font-size: 3rem;
 .about{
 	width: 100%;
 	
-	background-color: #191919;
+	background-color: #ffffff;
 }
 .about img{
 	height: auto;
@@ -203,20 +201,20 @@ font-size: 3rem;
 	border-radius: 50%;
 }
 .about-text h2{
-	color: white;
+	color: rgb(0, 0, 0);
 	font-size: 75px;
 	text-transform: capitalize;
 	margin-bottom: 20px;
 }
 .about-text h5{
-	color: white;
+	color: rgb(0, 0, 0);
 	letter-spacing: 2px;
 	font-size: 22px;
 	margin-bottom: 25px;
 	text-transform: capitalize;
 }
 .about-text p{
-	color: white;
+	color: rgb(0, 0, 0);
 	letter-spacing: 1px;
 	line-height: 28px;
 	font-size: 18px;
@@ -240,12 +238,12 @@ button:hover{
 }
 
 .service{
-	background: #101010;
+	background: #ffffff;
 	width: 100%;
 	padding: 100px 0px;
 }
 .title h2{
-	color: white;
+	color: rgb(0, 0, 0);
 	font-size: 75px;
 	
 	margin: 30px auto;
@@ -259,11 +257,12 @@ button:hover{
 	min-height: 400px;
 }
 .card{
-	background: #191919;
+	background: #ffffff;
 	border-radius: 20px;
 	margin: 15px;
 	position: relative;
 	overflow: hidden;
+	border: 2px solid black;
 	text-align: center;
 }
 .card img{
