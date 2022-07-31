@@ -275,11 +275,14 @@ button:hover{
 	width: 400px;
     height: 700px;
 }
+.card h5{
+	background-color: #101010;
+}
 h5{
 	color: #00eeff;
     font-size: 23px;
     padding: 22px 0;
-    background: black;
+    
 }
 .pra p{
 	color: white;
