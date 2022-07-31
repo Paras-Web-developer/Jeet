@@ -276,9 +276,10 @@ button:hover{
     height: 700px;
 }
 h5{
-	color: #2dc9d4;
-	font-size: 23px;
-	margin: 22px 0;
+	color: #00eeff;
+    font-size: 23px;
+    padding: 22px 0;
+    background: black;
 }
 .pra p{
 	color: white;
