@@ -88,7 +88,7 @@ div.left{
         background-size: contain;
         height: 400px;
 		width: 400px;
-		border: 2px solid black;
+		
         
   
         
@@ -101,7 +101,6 @@ div.left{
         background-size: contain;
 		height: 400px;
 		width: 400px;
-		border: 2px solid black;
         
     }
     40%{
@@ -112,7 +111,6 @@ div.left{
         background-size: contain;
 		height: 400px;
 		width: 400px;
-		border: 2px solid black;
         
     }
     60%{
@@ -123,7 +121,6 @@ div.left{
         background-size: contain;
 		height: 400px;
 		width: 400px;
-		border: 2px solid black;
         
     }
     80%{
@@ -134,7 +131,6 @@ div.left{
         background-size: contain;
 		height: 400px;
 		width: 400px;
-		border: 2px solid black;
         
     }
 }
