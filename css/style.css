@@ -203,6 +203,7 @@ font-size: 3rem;
 }
 .main img{
 	border-radius: 50%;
+	border: 2px solid #2dc9d4;
 }
 .about-text h2{
 	color: rgb(0, 0, 0);
